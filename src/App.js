@@ -10,5 +10,4 @@ function App() {
     </div>
   );
 }
-// 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
 export default App;
